@@ -64,7 +64,7 @@ Truck logistics companies face the challenge of:
 
 ---
 
-## 🧠 Search Algorithms Explained
+## Search Algorithms Explained
 
 ### 1. A* Search (A-Star)
 
